@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #4CAF50; /* Green background */
     color: white;
     text-align: center;
     padding: 1em 0;
@@ -35,4 +35,14 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%;
+}
+
+h1, h2 {
+    color: #2e7d32; /* Green for headings */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
 }
